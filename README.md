@@ -1,6 +1,9 @@
 debian-multimedia-codecs.sh
 ===========================
 
+github's smallest useful repository
+-----------------------------------
+
 Scripts to install community and 3rd-party audio and video codecs on Debian GNU/Linux.
 
 Run:
