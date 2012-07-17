@@ -1,5 +1,5 @@
-debian-multimedia-codecs.sh: github's smallest useful repository
-================================================================
+debian-multimedia-codecs.sh: github's smallest useful repo
+==========================================================
 
 Scripts to install community and 3rd-party audio and video codecs on Debian GNU/Linux.
 
